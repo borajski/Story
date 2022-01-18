@@ -1,3 +1,4 @@
 Poglavlje 13
 na serveru je
 ali ne radi sada
+sada radi
